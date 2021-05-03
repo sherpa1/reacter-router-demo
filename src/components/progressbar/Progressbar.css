@@ -1,0 +1,9 @@
+.Progressbar{
+    border: solid 2px black;
+    background-color:transparent;
+}
+
+.Progressbar div{
+    height: 2em;
+    background-color: aqua;
+}
